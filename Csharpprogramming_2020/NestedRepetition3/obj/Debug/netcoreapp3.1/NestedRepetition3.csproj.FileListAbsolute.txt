@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\bin\Debug\netcoreapp3.1\NestedRepetition3.exe
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\bin\Debug\netcoreapp3.1\NestedRepetition3.deps.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\bin\Debug\netcoreapp3.1\NestedRepetition3.runtimeconfig.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\bin\Debug\netcoreapp3.1\NestedRepetition3.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\bin\Debug\netcoreapp3.1\NestedRepetition3.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\bin\Debug\netcoreapp3.1\NestedRepetition3.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\obj\Debug\netcoreapp3.1\NestedRepetition3.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\obj\Debug\netcoreapp3.1\NestedRepetition3.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\obj\Debug\netcoreapp3.1\NestedRepetition3.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\obj\Debug\netcoreapp3.1\NestedRepetition3.AssemblyInfo.cs
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\obj\Debug\netcoreapp3.1\NestedRepetition3.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\obj\Debug\netcoreapp3.1\NestedRepetition3.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\NestedRepetition3\obj\Debug\netcoreapp3.1\NestedRepetition3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\bin\Debug\netcoreapp3.1\Selection Number.exe
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\bin\Debug\netcoreapp3.1\Selection Number.deps.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\bin\Debug\netcoreapp3.1\Selection Number.runtimeconfig.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\bin\Debug\netcoreapp3.1\Selection Number.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\bin\Debug\netcoreapp3.1\Selection Number.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\bin\Debug\netcoreapp3.1\Selection Number.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\obj\Debug\netcoreapp3.1\Selection Number.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\obj\Debug\netcoreapp3.1\Selection Number.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\obj\Debug\netcoreapp3.1\Selection Number.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\obj\Debug\netcoreapp3.1\Selection Number.AssemblyInfo.cs
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\obj\Debug\netcoreapp3.1\Selection Number.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\obj\Debug\netcoreapp3.1\Selection Number.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Number\obj\Debug\netcoreapp3.1\Selection Number.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods1\obj\Debug\netcoreapp3.1\FunctionsMethods1.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods1\obj\Debug\netcoreapp3.1\FunctionsMethods1.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods1\obj\Debug\netcoreapp3.1\FunctionsMethods1.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods1\obj\Debug\netcoreapp3.1\FunctionsMethods1.AssemblyInfo.cs

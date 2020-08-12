@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\bin\Debug\netcoreapp3.1\Selection Age.exe
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\bin\Debug\netcoreapp3.1\Selection Age.deps.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\bin\Debug\netcoreapp3.1\Selection Age.runtimeconfig.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\bin\Debug\netcoreapp3.1\Selection Age.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\bin\Debug\netcoreapp3.1\Selection Age.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\bin\Debug\netcoreapp3.1\Selection Age.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\obj\Debug\netcoreapp3.1\Selection Age.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\obj\Debug\netcoreapp3.1\Selection Age.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\obj\Debug\netcoreapp3.1\Selection Age.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\obj\Debug\netcoreapp3.1\Selection Age.AssemblyInfo.cs
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\obj\Debug\netcoreapp3.1\Selection Age.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\obj\Debug\netcoreapp3.1\Selection Age.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Selection Age\obj\Debug\netcoreapp3.1\Selection Age.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/Debug/netstandard2.0/CalcLib.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/Debug/netstandard2.0/CalcLib.csproj.CoreCompileInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/Debug/netstandard2.0/CalcLib.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/Debug/netstandard2.0/CalcLib.AssemblyInfo.cs
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/bin/Debug/netstandard2.0/CalcLib.deps.json
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/bin/Debug/netstandard2.0/CalcLib.dll
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/bin/Debug/netstandard2.0/CalcLib.pdb
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/Debug/netstandard2.0/CalcLib.dll
+/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/Debug/netstandard2.0/CalcLib.pdb

@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CarLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CarLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarLib.dll": {}
+        }
+      },
+      "PersonLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CarLib": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarLib/1.0.0": {
+      "type": "project",
+      "path": "../CarLib/CarLib.csproj",
+      "msbuildProject": "../CarLib/CarLib.csproj"
+    },
+    "PersonLib/1.0.0": {
+      "type": "project",
+      "path": "../PersonLib/PersonLib.csproj",
+      "msbuildProject": "../PersonLib/PersonLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PersonLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tengw\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\ConsoleProject\\ConsoleProject.csproj",
+      "projectName": "ConsoleProject",
+      "projectPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\ConsoleProject\\ConsoleProject.csproj",
+      "packagesPath": "C:\\Users\\tengw\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\ConsoleProject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tengw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\PersonLib.csproj": {
+              "projectPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\PersonLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/bin/Debug/netcoreapp3.1/LectureExamples.deps.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/bin/Debug/netcoreapp3.1/LectureExamples.runtimeconfig.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/bin/Debug/netcoreapp3.1/LectureExamples.runtimeconfig.dev.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/bin/Debug/netcoreapp3.1/LectureExamples.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/bin/Debug/netcoreapp3.1/LectureExamples.pdb
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/obj/Debug/netcoreapp3.1/LectureExamples.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/obj/Debug/netcoreapp3.1/LectureExamples.csproj.CoreCompileInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/obj/Debug/netcoreapp3.1/LectureExamples.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/obj/Debug/netcoreapp3.1/LectureExamples.AssemblyInfo.cs
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/obj/Debug/netcoreapp3.1/LectureExamples.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/obj/Debug/netcoreapp3.1/LectureExamples.pdb
+/Users/anguyen/Projects/CSharp/CIV_Examples/LectureExamples/obj/Debug/netcoreapp3.1/LectureExamples.genruntimeconfig.cache

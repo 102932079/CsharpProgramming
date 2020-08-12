@@ -1,0 +1,12 @@
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\bin\Debug\netstandard2.0\PersonLib.deps.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\bin\Debug\netstandard2.0\PersonLib.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\bin\Debug\netstandard2.0\PersonLib.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\obj\Debug\netstandard2.0\PersonLib.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\obj\Debug\netstandard2.0\PersonLib.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\obj\Debug\netstandard2.0\PersonLib.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\obj\Debug\netstandard2.0\PersonLib.AssemblyInfo.cs
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\obj\Debug\netstandard2.0\PersonLib.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\obj\Debug\netstandard2.0\PersonLib.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\bin\Debug\netstandard2.0\CarLib.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\bin\Debug\netstandard2.0\CarLib.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\Solutions_Example\PersonLib\obj\Debug\netstandard2.0\PersonLib.csproj.CopyComplete

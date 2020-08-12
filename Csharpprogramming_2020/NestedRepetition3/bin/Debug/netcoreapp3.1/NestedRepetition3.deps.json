@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NestedRepetition3/1.0.0": {
+        "runtime": {
+          "NestedRepetition3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NestedRepetition3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

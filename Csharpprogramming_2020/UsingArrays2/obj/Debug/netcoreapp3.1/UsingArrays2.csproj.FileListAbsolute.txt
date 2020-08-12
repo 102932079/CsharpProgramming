@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\bin\Debug\netcoreapp3.1\UsingArrays2.exe
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\bin\Debug\netcoreapp3.1\UsingArrays2.deps.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\bin\Debug\netcoreapp3.1\UsingArrays2.runtimeconfig.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\bin\Debug\netcoreapp3.1\UsingArrays2.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\bin\Debug\netcoreapp3.1\UsingArrays2.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\bin\Debug\netcoreapp3.1\UsingArrays2.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\obj\Debug\netcoreapp3.1\UsingArrays2.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\obj\Debug\netcoreapp3.1\UsingArrays2.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\obj\Debug\netcoreapp3.1\UsingArrays2.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\obj\Debug\netcoreapp3.1\UsingArrays2.AssemblyInfo.cs
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\obj\Debug\netcoreapp3.1\UsingArrays2.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\obj\Debug\netcoreapp3.1\UsingArrays2.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingArrays2\obj\Debug\netcoreapp3.1\UsingArrays2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\obj\Debug\netcoreapp3.1\FunctionsMethods3.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\obj\Debug\netcoreapp3.1\FunctionsMethods3.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\obj\Debug\netcoreapp3.1\FunctionsMethods3.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\obj\Debug\netcoreapp3.1\FunctionsMethods3.AssemblyInfo.cs
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\bin\Debug\netcoreapp3.1\FunctionsMethods3.exe
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\bin\Debug\netcoreapp3.1\FunctionsMethods3.deps.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\bin\Debug\netcoreapp3.1\FunctionsMethods3.runtimeconfig.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\bin\Debug\netcoreapp3.1\FunctionsMethods3.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\bin\Debug\netcoreapp3.1\FunctionsMethods3.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\bin\Debug\netcoreapp3.1\FunctionsMethods3.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\obj\Debug\netcoreapp3.1\FunctionsMethods3.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\obj\Debug\netcoreapp3.1\FunctionsMethods3.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\FunctionsMethods3\obj\Debug\netcoreapp3.1\FunctionsMethods3.genruntimeconfig.cache

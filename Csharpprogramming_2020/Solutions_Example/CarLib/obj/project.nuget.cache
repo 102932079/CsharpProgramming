@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZzWhKz1/te869o46v0/wk8ZWxY0qVTV2eTuXZASGKIKpWunrFv0cmjtQfKWbkd2Y0mgjE5bqgw2Zr6sq5ccEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\CarLib\\CarLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tengw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tengw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

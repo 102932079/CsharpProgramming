@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\obj\Debug\netcoreapp3.1\UsingLists1.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\obj\Debug\netcoreapp3.1\UsingLists1.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\obj\Debug\netcoreapp3.1\UsingLists1.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\obj\Debug\netcoreapp3.1\UsingLists1.AssemblyInfo.cs
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\bin\Debug\netcoreapp3.1\UsingLists1.exe
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\bin\Debug\netcoreapp3.1\UsingLists1.deps.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\bin\Debug\netcoreapp3.1\UsingLists1.runtimeconfig.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\bin\Debug\netcoreapp3.1\UsingLists1.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\bin\Debug\netcoreapp3.1\UsingLists1.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\bin\Debug\netcoreapp3.1\UsingLists1.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\obj\Debug\netcoreapp3.1\UsingLists1.dll
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\obj\Debug\netcoreapp3.1\UsingLists1.pdb
+C:\Users\tengw\Desktop\Csharpprogramming_2020\UsingLists1\obj\Debug\netcoreapp3.1\UsingLists1.genruntimeconfig.cache
