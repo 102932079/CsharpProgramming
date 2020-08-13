@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.exe
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.deps.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\bin\Debug\netcoreapp3.1\BeeKeeping.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.AssemblyInfo.cs
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BeeKeeping\obj\Debug\netcoreapp3.1\BeeKeeping.genruntimeconfig.cache
