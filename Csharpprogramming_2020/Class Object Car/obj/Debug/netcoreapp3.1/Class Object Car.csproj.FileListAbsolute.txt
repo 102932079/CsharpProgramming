@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\bin\Debug\netcoreapp3.1\Class Object Car.exe
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\bin\Debug\netcoreapp3.1\Class Object Car.deps.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\bin\Debug\netcoreapp3.1\Class Object Car.runtimeconfig.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\bin\Debug\netcoreapp3.1\Class Object Car.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\bin\Debug\netcoreapp3.1\Class Object Car.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\bin\Debug\netcoreapp3.1\Class Object Car.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\obj\Debug\netcoreapp3.1\Class Object Car.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\obj\Debug\netcoreapp3.1\Class Object Car.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\obj\Debug\netcoreapp3.1\Class Object Car.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\obj\Debug\netcoreapp3.1\Class Object Car.AssemblyInfo.cs
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\obj\Debug\netcoreapp3.1\Class Object Car.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\obj\Debug\netcoreapp3.1\Class Object Car.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Class Object Car\obj\Debug\netcoreapp3.1\Class Object Car.genruntimeconfig.cache
