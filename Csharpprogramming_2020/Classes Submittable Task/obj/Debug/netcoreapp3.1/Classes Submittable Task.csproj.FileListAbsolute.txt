@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\bin\Debug\netcoreapp3.1\Classes Submittable Task.exe
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\bin\Debug\netcoreapp3.1\Classes Submittable Task.deps.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\bin\Debug\netcoreapp3.1\Classes Submittable Task.runtimeconfig.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\bin\Debug\netcoreapp3.1\Classes Submittable Task.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\bin\Debug\netcoreapp3.1\Classes Submittable Task.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\bin\Debug\netcoreapp3.1\Classes Submittable Task.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\obj\Debug\netcoreapp3.1\Classes Submittable Task.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\obj\Debug\netcoreapp3.1\Classes Submittable Task.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\obj\Debug\netcoreapp3.1\Classes Submittable Task.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\obj\Debug\netcoreapp3.1\Classes Submittable Task.AssemblyInfo.cs
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\obj\Debug\netcoreapp3.1\Classes Submittable Task.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\obj\Debug\netcoreapp3.1\Classes Submittable Task.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Classes Submittable Task\obj\Debug\netcoreapp3.1\Classes Submittable Task.genruntimeconfig.cache
