@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.exe
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.deps.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.runtimeconfig.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\bin\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.AssemblyInfo.cs
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\AT1-BingoNumberGenerator\obj\Debug\netcoreapp3.1\AT1-BingoNumberGenerator.genruntimeconfig.cache

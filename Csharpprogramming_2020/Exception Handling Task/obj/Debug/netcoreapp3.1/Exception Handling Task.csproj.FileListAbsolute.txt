@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\bin\Debug\netcoreapp3.1\Exception Handling Task.exe
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\bin\Debug\netcoreapp3.1\Exception Handling Task.deps.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\bin\Debug\netcoreapp3.1\Exception Handling Task.runtimeconfig.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\bin\Debug\netcoreapp3.1\Exception Handling Task.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\bin\Debug\netcoreapp3.1\Exception Handling Task.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\bin\Debug\netcoreapp3.1\Exception Handling Task.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\obj\Debug\netcoreapp3.1\Exception Handling Task.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\obj\Debug\netcoreapp3.1\Exception Handling Task.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\obj\Debug\netcoreapp3.1\Exception Handling Task.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\obj\Debug\netcoreapp3.1\Exception Handling Task.AssemblyInfo.cs
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\obj\Debug\netcoreapp3.1\Exception Handling Task.dll
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\obj\Debug\netcoreapp3.1\Exception Handling Task.pdb
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Exception Handling Task\obj\Debug\netcoreapp3.1\Exception Handling Task.genruntimeconfig.cache

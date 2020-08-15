@@ -19,6 +19,7 @@ namespace LectureExamples {
             wheels = int.Parse(input);
 
             if(wheels <1 )
+            
             {
                 throw new Exception();
             }

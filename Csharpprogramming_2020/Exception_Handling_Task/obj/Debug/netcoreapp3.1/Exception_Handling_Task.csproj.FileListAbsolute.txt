@@ -1,0 +1,13 @@
+C:\Users\tengw\Desktop\Exception_Handling_Task\bin\Debug\netcoreapp3.1\Exception_Handling_Task.exe
+C:\Users\tengw\Desktop\Exception_Handling_Task\bin\Debug\netcoreapp3.1\Exception_Handling_Task.deps.json
+C:\Users\tengw\Desktop\Exception_Handling_Task\bin\Debug\netcoreapp3.1\Exception_Handling_Task.runtimeconfig.json
+C:\Users\tengw\Desktop\Exception_Handling_Task\bin\Debug\netcoreapp3.1\Exception_Handling_Task.runtimeconfig.dev.json
+C:\Users\tengw\Desktop\Exception_Handling_Task\bin\Debug\netcoreapp3.1\Exception_Handling_Task.dll
+C:\Users\tengw\Desktop\Exception_Handling_Task\bin\Debug\netcoreapp3.1\Exception_Handling_Task.pdb
+C:\Users\tengw\Desktop\Exception_Handling_Task\obj\Debug\netcoreapp3.1\Exception_Handling_Task.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\Exception_Handling_Task\obj\Debug\netcoreapp3.1\Exception_Handling_Task.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\Exception_Handling_Task\obj\Debug\netcoreapp3.1\Exception_Handling_Task.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\Exception_Handling_Task\obj\Debug\netcoreapp3.1\Exception_Handling_Task.AssemblyInfo.cs
+C:\Users\tengw\Desktop\Exception_Handling_Task\obj\Debug\netcoreapp3.1\Exception_Handling_Task.dll
+C:\Users\tengw\Desktop\Exception_Handling_Task\obj\Debug\netcoreapp3.1\Exception_Handling_Task.pdb
+C:\Users\tengw\Desktop\Exception_Handling_Task\obj\Debug\netcoreapp3.1\Exception_Handling_Task.genruntimeconfig.cache
