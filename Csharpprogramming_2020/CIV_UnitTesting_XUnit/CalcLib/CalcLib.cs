@@ -1,5 +1,7 @@
-﻿namespace CalcLib {
-    public class RecursiveCalc {
+﻿namespace CalcLib 
+{
+    public class RecursiveCalc 
+    {
                
         /// <summary>
         /// Returns the factorial for given input.  Initialise ans with 1
@@ -7,8 +9,10 @@
         /// <param name="input"></param>
         /// <param name="ans"></param>
         /// <returns></returns>
-        public int FactorialRec(int input, int ans) {
-            if (input == 0) {
+        public int FactorialRec(int input, int ans) 
+        {
+            if (input == 0) 
+            {
                 return ans;
             }
 
@@ -22,13 +26,16 @@
         /// </summary>
         /// <param name="num"></param>
         /// <returns></returns>
-        public bool FibCheck(int num) {
+        public bool FibCheck(int num) 
+        {
             int ans = 0;
             int a = 1, b =1;
             
-            while (ans < num) {
+            while (ans < num) 
+            {
                 ans = a + b;
-                if (ans == num) {
+                if (ans == num) 
+                {
                     return true;
                 }
 
@@ -44,16 +51,20 @@
         /// <param name="num"></param>
         /// <param name="divisor"></param>
         /// <returns></returns>
-        public bool PrimeCheckRec(int num, int divisor) {
-            if (divisor <= 0) {
+        public bool PrimeCheckRec(int num, int divisor) 
+        {
+            if (divisor <= 0) 
+            {
                 throw new System.DivideByZeroException();
             }
 
-            if (num == divisor) {
+            if (num == divisor) 
+            {
                 return true;
             }
 
-            if (num > divisor) {
+            if (num > divisor) 
+            {
                 return num % divisor != 0 && PrimeCheckRec(num, divisor + 1);
             }
 
@@ -67,8 +78,10 @@
         /// <param name="num2"></param>
         /// <param name="numFibs"></param>
         /// <returns></returns>
-        public int FibonacciRec(int num1, int num2, int numFibs) {
-            if (numFibs > 0) {
+        public int FibonacciRec(int num1, int num2, int numFibs) 
+        {
+            if (numFibs > 0) 
+            {
                 numFibs--;
                 num2 = num1 + num2;
                 return FibonacciRec(num2, num2 + num1, numFibs);
