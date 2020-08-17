@@ -1,0 +1,4 @@
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/obj/Debug/netcoreapp3.1/Solutions_Example.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/obj/Debug/netcoreapp3.1/Solutions_Example.csproj.CoreCompileInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/obj/Debug/netcoreapp3.1/Solutions_Example.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/obj/Debug/netcoreapp3.1/Solutions_Example.AssemblyInfo.cs

@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\Tests\\Tests.csproj": {}
+    "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Tests/Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\CarLib\\CarLib.csproj": {
+    "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/CarLib/CarLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\CarLib\\CarLib.csproj",
+        "projectUniqueName": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/CarLib/CarLib.csproj",
         "projectName": "CarLib",
-        "projectPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\CarLib\\CarLib.csproj",
-        "packagesPath": "C:\\Users\\tengw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\CarLib\\obj\\",
+        "projectPath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/CarLib/CarLib.csproj",
+        "packagesPath": "/Users/anguyen/.nuget/packages/",
+        "outputPath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/CarLib/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tengw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/anguyen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -53,21 +56,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\PersonLib.csproj": {
+    "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/PersonLib/PersonLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\PersonLib.csproj",
+        "projectUniqueName": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/PersonLib/PersonLib.csproj",
         "projectName": "PersonLib",
-        "projectPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\PersonLib.csproj",
-        "packagesPath": "C:\\Users\\tengw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\obj\\",
+        "projectPath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/PersonLib/PersonLib.csproj",
+        "packagesPath": "/Users/anguyen/.nuget/packages/",
+        "outputPath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/PersonLib/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tengw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/anguyen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -78,8 +84,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\CarLib\\CarLib.csproj": {
-                "projectPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\CarLib\\CarLib.csproj"
+              "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/CarLib/CarLib.csproj": {
+                "projectPath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/CarLib/CarLib.csproj"
               }
             }
           }
@@ -110,21 +116,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\Tests\\Tests.csproj": {
+    "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Tests/Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\Tests\\Tests.csproj",
+        "projectUniqueName": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Tests/Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\Tests\\Tests.csproj",
-        "packagesPath": "C:\\Users\\tengw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\Tests\\obj\\",
+        "projectPath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Tests/Tests.csproj",
+        "packagesPath": "/Users/anguyen/.nuget/packages/",
+        "outputPath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Tests/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\tengw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/anguyen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -135,8 +144,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\PersonLib.csproj": {
-                "projectPath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\PersonLib.csproj"
+              "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/PersonLib/PersonLib.csproj": {
+                "projectPath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/PersonLib/PersonLib.csproj"
               }
             }
           }
@@ -152,7 +161,7 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.2.0, )"
+              "version": "[16.5.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -182,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
         }
       }
     }

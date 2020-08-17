@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PU/TtjPXeOzh4meHLMetJAsiChS0hxqwfiDvVIlPVewSSx38SafwqAVT4qkz8G6ee3oK0bmCKDQ5TIwJtr4Ilw==",
+  "dgSpecHash": "ca7VFwBv6BjBOSXkDoPYptfaFBF37rvI+VAmlssA70VskIBipC7Zw2amIlso0nO6qz/VIdibGsyPAy4NTXdIvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\PersonLib\\PersonLib.csproj",
+  "projectFilePath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/PersonLib/PersonLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\tengw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\tengw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/anguyen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/anguyen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

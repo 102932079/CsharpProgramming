@@ -1,0 +1,17 @@
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/obj/Debug/netcoreapp3.1/ConsoleProj.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/obj/Debug/netcoreapp3.1/ConsoleProj.csproj.CoreCompileInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/obj/Debug/netcoreapp3.1/ConsoleProj.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/obj/Debug/netcoreapp3.1/ConsoleProj.AssemblyInfo.cs
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/ConsoleProj.deps.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/ConsoleProj.runtimeconfig.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/ConsoleProj.runtimeconfig.dev.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/ConsoleProj.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/ConsoleProj.pdb
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/CarLib.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/PersonLib.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/PersonLib.pdb
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/bin/Debug/netcoreapp3.1/CarLib.pdb
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/obj/Debug/netcoreapp3.1/ConsoleProj.csproj.CopyComplete
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/obj/Debug/netcoreapp3.1/ConsoleProj.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/obj/Debug/netcoreapp3.1/ConsoleProj.pdb
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/ConsoleProj/obj/Debug/netcoreapp3.1/ConsoleProj.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/obj/Debug/netstandard2.0/Triangle.csprojAssemblyReference.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/obj/Debug/netstandard2.0/Triangle.csproj.CoreCompileInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/obj/Debug/netstandard2.0/Triangle.AssemblyInfoInputs.cache
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/obj/Debug/netstandard2.0/Triangle.AssemblyInfo.cs
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/bin/Debug/netstandard2.0/Triangle.deps.json
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/bin/Debug/netstandard2.0/Triangle.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/bin/Debug/netstandard2.0/Triangle.pdb
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/obj/Debug/netstandard2.0/Triangle.dll
+/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/Triangle/obj/Debug/netstandard2.0/Triangle.pdb

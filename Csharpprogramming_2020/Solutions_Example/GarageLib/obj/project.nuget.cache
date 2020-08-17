@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "UHoQPwpGlt5NsvqqVH7OTUcKKV0w6hrUKAbEFsnHPa0RXwz17+4OVQwewvbBxv7a4Ll/nsr9zkzQIoNBWryJow==",
+  "dgSpecHash": "0u6IxbwqTueCWu3XjwZU+TvA3Y2sDQk5w1++7Zu9v/87bmOTBgu2+fr/3b5/h20c1Bi0SRionaL7S+g+EjWGiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tengw\\Desktop\\Csharpprogramming_2020\\Solutions_Example\\GarageLib\\GarageLib.csproj",
+  "projectFilePath": "/Users/anguyen/Projects/CSharp/CIV_Examples/Solutions_Example/GarageLib/GarageLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\tengw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\tengw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "/Users/anguyen/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/anguyen/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
