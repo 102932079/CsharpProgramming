@@ -57,7 +57,7 @@ namespace AT1_BingoNumberGenerator
 
             //all four menu option
 
-            while ( input2 != 4 )
+            while ( input2 ! = 4 )
             {
                 System.Console.WriteLine(" Welcome to the Swinburne Bingo Club");
                 System.Console.WriteLine(" 1. Draw next number ");
