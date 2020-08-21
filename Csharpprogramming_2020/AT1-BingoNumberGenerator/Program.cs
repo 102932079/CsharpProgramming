@@ -57,7 +57,7 @@ namespace AT1_BingoNumberGenerator
 
             //all four menu option
 
-            while ( input2 ! = 4 )
+            while ( input2 != 4 )
             {
                 System.Console.WriteLine(" Welcome to the Swinburne Bingo Club");
                 System.Console.WriteLine(" 1. Draw next number ");
@@ -206,6 +206,7 @@ namespace AT1_BingoNumberGenerator
 
                     else
                     {
+                        //System.Console.WriteLine("===============");
                         System.Console.WriteLine("Invalid option");
                     }         
 
@@ -221,6 +222,7 @@ namespace AT1_BingoNumberGenerator
                     System.Console.WriteLine("Enter a number");
 
                     // create a input for checking spcific number
+                    //need set up a range 1- limitinput
 
                     string search = Console.ReadLine();
 

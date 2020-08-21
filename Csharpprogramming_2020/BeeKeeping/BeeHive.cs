@@ -27,7 +27,6 @@ namespace BeeKeeping
             this.MaxBee = maxBee;
             this.BeehiveNumber = beehiveNumber;
             this.BeeList = new List<Bee>();
-
         }
 
         // methods
