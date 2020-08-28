@@ -66,7 +66,8 @@ namespace Tests
         [Theory]
         [InlineData("dbc", "abc", "a", "d")]
         [InlineData("oyz", "xyz", "x", "o")]    
-        [InlineData("?", "abc" , "m", "n")]
+       
+
         public string StringReplace(string expected, string word, char replaceChar, char replacement)
         {
             GroupOneFunctions g1 = new GroupOneFunctions(word, replaceChar, replacement);
