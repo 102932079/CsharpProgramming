@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3kha/3K07Wo8GjMIrXOzQsiQ4R1aGqKRvcKJfrM4QvsgbGcDLcgXLqUjV3QIgJjznpI94t7KWPZWwwvhwnukng==",
+  "dgSpecHash": "armwxaQCmvquNIVVjgC03Hj7nDb4L01HRXoLQibrm03HzzaCuXCeTl3WfzxKWimUp1Rymiqv7GYZCSrnW+w4EA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_Group1Assignment_1029320796\\CalTest\\CalTest.csproj",
+  "projectFilePath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tengw\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\tengw\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",

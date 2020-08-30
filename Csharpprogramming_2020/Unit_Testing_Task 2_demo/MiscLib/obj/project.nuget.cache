@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "awTyaIKp9Oh3i6ToYeMNRJ0wMmJfrRQefiFQNTila3anl2aMYgen4/1U4VwC/33yRMhvda8FoYcMTRKW8mvUow==",
+  "dgSpecHash": "6e+3qCzQQbDfGoyOb/WhxtEeP3INH0Z1QKCrGlY1/hGBUKVO1QfkI3ZwPqe9uiJFP5NqzVcUykuF0iuA5o4vLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_Group1Assignment_1029320796\\CalLib\\CalLib.csproj",
+  "projectFilePath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\MiscLib\\MiscLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tengw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\tengw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

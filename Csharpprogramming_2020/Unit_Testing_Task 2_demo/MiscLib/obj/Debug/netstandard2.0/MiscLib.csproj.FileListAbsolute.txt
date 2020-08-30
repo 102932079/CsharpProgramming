@@ -1,0 +1,4 @@
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Unit_Testing_Task 2_demo\MiscLib\obj\Debug\netstandard2.0\MiscLib.csprojAssemblyReference.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Unit_Testing_Task 2_demo\MiscLib\obj\Debug\netstandard2.0\MiscLib.csproj.CoreCompileInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Unit_Testing_Task 2_demo\MiscLib\obj\Debug\netstandard2.0\MiscLib.AssemblyInfoInputs.cache
+C:\Users\tengw\Desktop\github\CsharpProgramming\Csharpprogramming_2020\Unit_Testing_Task 2_demo\MiscLib\obj\Debug\netstandard2.0\MiscLib.AssemblyInfo.cs

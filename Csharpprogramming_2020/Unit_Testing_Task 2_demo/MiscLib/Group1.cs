@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CalLib
+namespace MiscLib
 {
-    public class Class1
+    public class GroupOneFunctions
     {
         /// <summary>
         /// Method receives the two sides of a Rectangle and return the area
@@ -14,14 +14,9 @@ namespace CalLib
         /// <returns></returns>
         public int CalcRectArea(int length, int width)
         {
-            if (length>0 && width>0)
-            {
+            
                 return ( length + width ) * 2;
-            }
-            else
-            {
-                throw exception();
-            }
+            
         }
 
         /// <summary>
@@ -71,15 +66,15 @@ namespace CalLib
         public bool IsPalindrome(string word)
         {
             int i = 0;
-            int j = value.Length - 1;
+            int j = word.Length - 1;
             while (true)
             {
                 if (i > j)
                 {
                     return true;
                 }
-                char a = value[i];
-                char b = value[j];
+                char a = word[i];
+                char b = word[j];
                 if (char.ToLower(a) != char.ToLower(b))
                 {
                     return false;

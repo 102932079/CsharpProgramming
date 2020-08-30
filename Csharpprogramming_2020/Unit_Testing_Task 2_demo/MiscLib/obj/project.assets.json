@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_Group1Assignment_1029320796\\CalLib\\CalLib.csproj",
-      "projectName": "CalLib",
-      "projectPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_Group1Assignment_1029320796\\CalLib\\CalLib.csproj",
+      "projectUniqueName": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\MiscLib\\MiscLib.csproj",
+      "projectName": "MiscLib",
+      "projectPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\MiscLib\\MiscLib.csproj",
       "packagesPath": "C:\\Users\\tengw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_Group1Assignment_1029320796\\CalLib\\obj\\",
+      "outputPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\MiscLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tengw\\AppData\\Roaming\\NuGet\\NuGet.Config"

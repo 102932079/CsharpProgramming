@@ -1962,6 +1962,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "MiscLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MiscLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiscLib.dll": {}
+        }
       }
     }
   },
@@ -6573,11 +6583,17 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "MiscLib/1.0.0": {
+      "type": "project",
+      "path": "../MiscLib/MiscLib.csproj",
+      "msbuildProject": "../MiscLib/MiscLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.NET.Test.Sdk >= 16.2.0",
+      "MiscLib >= 1.0.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
@@ -6589,11 +6605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_Group1Assignment_1029320796\\CalTest\\CalTest.csproj",
-      "projectName": "CalTest",
-      "projectPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_Group1Assignment_1029320796\\CalTest\\CalTest.csproj",
+      "projectUniqueName": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\Tests\\Tests.csproj",
+      "projectName": "Tests",
+      "projectPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\tengw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_Group1Assignment_1029320796\\CalTest\\obj\\",
+      "outputPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tengw\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6606,7 +6622,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\MiscLib\\MiscLib.csproj": {
+              "projectPath": "C:\\Users\\tengw\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\Unit_Testing_Task 2_demo\\MiscLib\\MiscLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
