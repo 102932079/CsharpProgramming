@@ -1,0 +1,15 @@
+this is just a dummy file for commenting json beasue json not allow comment
+
+// start json with { then we spacify an attribute then call the value for log in
+// the value is another object
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
+// in "" is object ater : is value in json we dont define type
