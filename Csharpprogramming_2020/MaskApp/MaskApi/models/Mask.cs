@@ -27,7 +27,7 @@ namespace MaskApi.models
         // always left constructorbelow the atrridute 
         // there are two type of constructor
         // one is defalut empty constructor another one is for pass in value for parameter
-        
+        // why @new not just new in parameter beacuse new reserved , has been used somewhere else
         public Mask(string maskId, int size, string colour, bool @new, bool preInfected, string design, bool reusable, double cost)
         {
             this.MaskId = maskId;

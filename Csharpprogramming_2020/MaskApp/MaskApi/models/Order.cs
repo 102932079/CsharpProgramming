@@ -5,7 +5,7 @@
 // 	Price: double (rounded to two decimal places)
 
 using System;
-using MaskApi;
+
 
 namespace MaskApi.models
 {
@@ -22,13 +22,14 @@ namespace MaskApi.models
         
         // no need order and price
         //public Order(int orderNo, int qty, Mask mask, double price)
-        public Order( int qty, Mask mask)
+        public Order( Mask mask, int qty)
         {
             // dont need this keyword for csharp
             //this.OrderNo = orderNo;
             this.OrderNo = this.GenOrderNo();
             this.Qty = qty;
-            this.Mask = mask;
+            //Mask?
+            this.mask = mask;
             //this.Price = price;
             // the setprice method return type is void
             // so set price to setprice to nothing is not making sense
@@ -40,9 +41,11 @@ namespace MaskApi.models
         }
 
         //method to calculate price
+        // we cant test setprice beacuse its void we cant test void
         public void SetPrice()
         {
-            this.Price = this.Qty * Mask.Cost;
+            // Mask?
+            this.Price = this.Qty * mask.Cost;
         }
         // make this method to double
         // public double SetPrice()
