@@ -1,0 +1,4 @@
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BirthdaysApp\BirthdaysLib\obj\Debug\netstandard2.0\BirthdaysLib.csprojAssemblyReference.cache
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BirthdaysApp\BirthdaysLib\obj\Debug\netstandard2.0\BirthdaysLib.AssemblyInfoInputs.cache
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BirthdaysApp\BirthdaysLib\obj\Debug\netstandard2.0\BirthdaysLib.AssemblyInfo.cs
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\BirthdaysApp\BirthdaysLib\obj\Debug\netstandard2.0\BirthdaysLib.csproj.CoreCompileInputs.cache

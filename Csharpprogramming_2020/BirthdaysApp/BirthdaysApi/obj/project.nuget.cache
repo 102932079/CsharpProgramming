@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ys2tKHAJcNkUY2is9nlQMcFF0SYmzg0iwZDWRAtqYAad1bXCeiEJRSdgHv0hFsONv4+yc1HfGT+joaD+sm4h8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tengw\\OneDrive\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\BirthdaysApp\\BirthdaysApi\\BirthdaysApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tengw\\.nuget\\packages\\csvhelper\\15.0.5\\csvhelper.15.0.5.nupkg.sha512",
+    "C:\\Users\\tengw\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

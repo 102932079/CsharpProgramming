@@ -1,0 +1,15 @@
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\obj\Debug\netcoreapp3.1\CsvHelperTest.csprojAssemblyReference.cache
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\obj\Debug\netcoreapp3.1\CsvHelperTest.AssemblyInfoInputs.cache
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\obj\Debug\netcoreapp3.1\CsvHelperTest.AssemblyInfo.cs
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\obj\Debug\netcoreapp3.1\CsvHelperTest.csproj.CoreCompileInputs.cache
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\bin\Debug\netcoreapp3.1\CsvHelperTest.exe
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\bin\Debug\netcoreapp3.1\CsvHelperTest.deps.json
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\bin\Debug\netcoreapp3.1\CsvHelperTest.runtimeconfig.json
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\bin\Debug\netcoreapp3.1\CsvHelperTest.runtimeconfig.dev.json
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\bin\Debug\netcoreapp3.1\CsvHelperTest.dll
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\bin\Debug\netcoreapp3.1\CsvHelperTest.pdb
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\obj\Debug\netcoreapp3.1\CsvHelperTest.csproj.CopyComplete
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\obj\Debug\netcoreapp3.1\CsvHelperTest.dll
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\obj\Debug\netcoreapp3.1\CsvHelperTest.pdb
+C:\Users\tengw\OneDrive\Desktop\github\CsharpProgramming\Csharpprogramming_2020\CsvHelperTest\obj\Debug\netcoreapp3.1\CsvHelperTest.genruntimeconfig.cache

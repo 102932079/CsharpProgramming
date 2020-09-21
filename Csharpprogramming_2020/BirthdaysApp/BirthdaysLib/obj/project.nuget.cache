@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2M3Swxkm+K6I4VnB+n58zuosdOf+mkUZQCqZqkdXv2YoH7BvZbuAoF3sJtFKCj+2/5bUiOblkN6gTrKzEvxcKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tengw\\OneDrive\\Desktop\\github\\CsharpProgramming\\Csharpprogramming_2020\\BirthdaysApp\\BirthdaysLib\\BirthdaysLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tengw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tengw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
