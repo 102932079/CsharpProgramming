@@ -1,0 +1,20 @@
+-create reop
+mkdir [reponame]
+
+-create solution
+dotnet new sln
+-References
+dotnet sln add <references>
+strat from root folder to ref webapi csproj
+
+-create test
+dotnet new xunit
+-References
+dotnet add reference <references>
+start for this test folder to ref webapi csproj
+
+-create webapi with controllers
+dotnet new webapi
+
+-create class in models
+dotnet new classlib
