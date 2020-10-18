@@ -1,0 +1,25 @@
+-create reop
+mkdir [reponame]
+model/ tests/ RPS_WebApi
+
+-create solution
+dotnet new sln
+-References
+dotnet sln add <references>
+strat from root folder to ref webapi csproj
+dotnet sln add .\Tests\Tests.csproj
+dotnet sln add .\RPS_WebApi\RPS_WebApi.csproj
+
+-create test
+dotnet new xunit
+-References
+dotnet add reference <references>
+start for this test folder to ref webapi csproj
+dotnet add reference ..\RPS_WebApi\RPS_WebApi.csproj
+
+-create webapi with controllers
+dotnet new webapi
+
+no need
+-create class in models
+dotnet new classlib
