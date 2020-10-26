@@ -26,7 +26,7 @@ namespace RPS_WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            //add cors service
+            //add cors service option inside option is going to be ok
             services.AddCors(options =>
             {
                 options.AddDefaultPolicy(options =>
@@ -35,6 +35,7 @@ namespace RPS_WebApi
                         .AllowAnyOrigin()
                         .AllowAnyMethod()
                         .AllowAnyHeader();
+                        //.AllowCredentials();
                 });
             });
         }
@@ -47,7 +48,7 @@ namespace RPS_WebApi
                 app.UseDeveloperExceptionPage();
             }
 
-            //add cors method
+            //last step add cors method
             app.UseCors();
 
             app.UseHttpsRedirection();
