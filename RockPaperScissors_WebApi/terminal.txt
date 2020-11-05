@@ -24,4 +24,11 @@ no need
 -create class in models
 dotnet new classlib
 
+=========================================================
+extra content from new video
 
+1.dont need to touch program.cs much (just start to host and running it)
+
+2.startup.cs (startup method) add cors method and disable use http redirection
+
+3.create controllers

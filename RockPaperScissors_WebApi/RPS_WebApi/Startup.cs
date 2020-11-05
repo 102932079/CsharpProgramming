@@ -51,7 +51,7 @@ namespace RPS_WebApi
             //last step add cors method
             app.UseCors();
 
-            app.UseHttpsRedirection();
+            //Disabled: app.UseHttpsRedirection(); (for this RPS project)
 
             app.UseRouting();
 
