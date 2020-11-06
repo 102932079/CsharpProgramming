@@ -31,4 +31,8 @@ extra content from new video
 
 2.startup.cs (startup method) add cors method and disable use http redirection
 
-3.create controllers
+3.create controllers , delete weatherforecast controllers and cs .net core
+  there are some naming principle that suggested to consider
+  create endpoint for http request
+  name convention
+  // the name of the method(submit)/the name of the controller(vote)/what it is(request)/named model beacuse of no impelmentation 

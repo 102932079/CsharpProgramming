@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RPS_WebApi\RPS_WebApi.csproj" />
+    <ProjectReference Include="..\ApiApplication\ApiApplication.csproj" />
   </ItemGroup>
 
 </Project>
