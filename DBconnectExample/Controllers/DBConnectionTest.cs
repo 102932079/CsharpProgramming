@@ -1,4 +1,6 @@
-﻿using System;
+﻿//find compelete guide from microsoft document
+//https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlconnection?view=dotnet-plat-ext-5.0
+using System;
 
 namespace Controllers
 {
@@ -8,7 +10,7 @@ namespace Controllers
     {
         [HttpGet]
         public string TestConnection(){
-            
+
         }
     }
 }
