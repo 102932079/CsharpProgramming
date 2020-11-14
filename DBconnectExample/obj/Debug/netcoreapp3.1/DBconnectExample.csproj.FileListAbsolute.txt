@@ -1,0 +1,5 @@
+D:\github\CsharpProgramming\DBconnectExample\obj\Debug\netcoreapp3.1\DBconnectExample.csprojAssemblyReference.cache
+D:\github\CsharpProgramming\DBconnectExample\obj\Debug\netcoreapp3.1\DBconnectExample.AssemblyInfoInputs.cache
+D:\github\CsharpProgramming\DBconnectExample\obj\Debug\netcoreapp3.1\DBconnectExample.AssemblyInfo.cs
+D:\github\CsharpProgramming\DBconnectExample\obj\Debug\netcoreapp3.1\DBconnectExample.csproj.CoreCompileInputs.cache
+D:\github\CsharpProgramming\DBconnectExample\obj\Debug\netcoreapp3.1\DBconnectExample.MvcApplicationPartsAssemblyInfo.cache

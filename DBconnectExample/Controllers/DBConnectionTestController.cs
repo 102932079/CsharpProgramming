@@ -25,10 +25,17 @@ namespace DBCONNECTEXAMPLE.Controllers
             //sample DB URL from Anh
             //bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com
             //the sample DB from dofactory.com/sql/sample-database
-            String ConnectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+            //connect to DB not provider
+            String connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
             //above was connection string
-            SqlConnection conn = new SqlConnection();
-            SqlConnection cnn;
+            SqlConnection conn = new SqlConnection(connectionString);
+            //SqlConnection cnn;
+            
+            //return a method ok
+            return "Ok";
+
+            //16 error CS0579: Duplicate (cant fix)
+            
         }
     }
 }
