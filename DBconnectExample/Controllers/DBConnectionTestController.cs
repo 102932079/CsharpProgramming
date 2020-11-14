@@ -67,7 +67,7 @@ namespace DBCONNECTEXAMPLE.Controllers
             
             //return a method ok // if connect success return ok in postman
             //return "Ok";
-            return customers;
+            return customers; //json .net cores does
 
             //16 error CS0579: Duplicate (cant fix)
             //dotnet build (grab the url which is listening on port)
