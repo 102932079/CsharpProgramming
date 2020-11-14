@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;//for db -re
 using System.Data.SqlClient; //sqlconnection
 
 //we need sql connection string and read block
+//sql connect and sql data reader
 
 //namespace issue
 namespace DBCONNECTEXAMPLE.Controllers
@@ -30,11 +31,30 @@ namespace DBCONNECTEXAMPLE.Controllers
             //above was connection string
             SqlConnection conn = new SqlConnection(connectionString);
             //SqlConnection cnn;
+
+            string queryString = "Select * From Customer";
+
+            //use sqlcommand to openup a connection
+            SqlCommand command = new SqlCommand ( queryString, conn);
+            conn.Open();
+
+            string result = "";
+            //data reader
+            using (SqlDataReader reader = command.ExecuteReader())
+            {
+                while (reader.Read())
+                {
+                    //reader column and add to array
+                    result += reader[0] + "|" + reader[1] + "\n";//by add "\n" give the return data for each row to start a new line
+                }
+            }
             
-            //return a method ok
+            //return a method ok // if connect success return ok in postman
             return "Ok";
 
             //16 error CS0579: Duplicate (cant fix)
+            //dotnet build (grab the url which is listening on port)
+            //https://localhost:5001/DBConnectionTest return ok 
             
         }
     }
