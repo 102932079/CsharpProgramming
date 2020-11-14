@@ -76,3 +76,32 @@ namespace DBCONNECTEXAMPLE.Controllers
         }
     }
 }
+
+// // List<Customer> customers = new List<Customer>();
+
+//             // Connect to an SQL Server Database
+//             string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+//             SqlConnection conn = new SqlConnection(connectionString);
+
+//             string queryString = "Select * From Customer";
+
+//             SqlCommand command = new SqlCommand( queryString, conn);
+//             conn.Open();
+        
+//             string result = "";
+//             using(SqlDataReader reader = command.ExecuteReader())
+//             {
+//                 while (reader.Read())
+//                 {
+//                     result += reader[0] + " | " + reader[1] + reader[2] + "\n";
+                    
+//                     // ORM - Object Relation Mapping
+//                     customers.Add(
+//                         new Customer() { Id = (int)reader[0], FirstName = reader[1].ToString(), Surname = reader[2].ToString()});                
+//                 }
+//             }
+
+//pratice:
+//endpoint which returns:
+//list of objects - product name, unit price suppliername
+//with the sample DB
