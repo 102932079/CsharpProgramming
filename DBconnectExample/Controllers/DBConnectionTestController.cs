@@ -73,41 +73,74 @@ namespace DBCONNECTEXAMPLE.Controllers
             //dotnet build (grab the url which is listening on port)
             //https://localhost:5001/DBConnectionTest return ok 
 
-            //SqlCommand class
-            //https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand?view=dotnet-plat-ext-5.0
-            //CURD in sql list
-            //insert is create, select is read, delete is delet,  update is insert again
-            //comand.excuteNonquery(); // write data
+
+                        // // List<Customer> customers = new List<Customer>();
+
+            //             // Connect to an SQL Server Database
+            //             string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+            //             SqlConnection conn = new SqlConnection(connectionString);
+
+            //             string queryString = "Select * From Customer";
+
+            //             SqlCommand command = new SqlCommand( queryString, conn);
+            //             conn.Open();
+                    
+            //             string result = "";
+            //             using(SqlDataReader reader = command.ExecuteReader())
+            //             {
+            //                 while (reader.Read())
+            //                 {
+            //                     result += reader[0] + " | " + reader[1] + reader[2] + "\n";
+                                
+            //                     // ORM - Object Relation Mapping
+            //                     customers.Add(
+            //                         new Customer() { Id = (int)reader[0], FirstName = reader[1].ToString(), Surname = reader[2].ToString()});                
+            //                 }
+            //             }
+
+            //pratice:
+            //endpoint which returns:
+            //list of objects - product name, unit price suppliername
+            //with the sample DB
             
+        }
+
+        
+        //SqlCommand class
+        //https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand?view=dotnet-plat-ext-5.0
+        //CURD in sql list
+        //insert is create, select is read, delete is delet,  update is insert again
+        //comand.excuteNonquery(); // write data
+
+        //create another endpoint for write data in database
+        [HttpGet("Delete91")]
+
+        public string Delete91(){
+            //connect DB
+            string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+            SqlConnection conn = new SqlConnection(connectionString);
+
+            string queryString = "Delete From Customer Where Id=91";
+
+            //create a sql command - loading the query into the command
+            SqlCommand command = new SqlCommand(queryString, conn);
+
+            //accese the connection
+            conn.Open();
+
+            try {
+                var result = command.ExecuteNonQuery();
+                return result.ToString();
+            } catch (SqlException se) {
+                return "Cannot delete user with id 91" + se.Message;
+            }
+            
+
+            
+
+            //return error use try catch
+
         }
     }
 }
 
-// // List<Customer> customers = new List<Customer>();
-
-//             // Connect to an SQL Server Database
-//             string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
-//             SqlConnection conn = new SqlConnection(connectionString);
-
-//             string queryString = "Select * From Customer";
-
-//             SqlCommand command = new SqlCommand( queryString, conn);
-//             conn.Open();
-        
-//             string result = "";
-//             using(SqlDataReader reader = command.ExecuteReader())
-//             {
-//                 while (reader.Read())
-//                 {
-//                     result += reader[0] + " | " + reader[1] + reader[2] + "\n";
-                    
-//                     // ORM - Object Relation Mapping
-//                     customers.Add(
-//                         new Customer() { Id = (int)reader[0], FirstName = reader[1].ToString(), Surname = reader[2].ToString()});                
-//                 }
-//             }
-
-//pratice:
-//endpoint which returns:
-//list of objects - product name, unit price suppliername
-//with the sample DB
