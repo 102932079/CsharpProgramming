@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SLjYEn4SaZNjGzIXKIvuF5IScxKCqrFzKS7nAmciooEQq09ikrJ5ar+FeDd9qGPzUNdaW45cVg3aiBk7yJ8MSQ==",
+  "success": true,
+  "projectFilePath": "D:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tengw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tengw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

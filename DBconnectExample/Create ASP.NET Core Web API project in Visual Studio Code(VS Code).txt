@@ -1,0 +1,19 @@
+Create ASP.NET Core Web API project in Visual Studio Code(VS Code)
+
+Prerequisites:
+Install .NET Core 3.1 SDK or later. (click here)
+Install Visual Studio Code. (click here)
+Install C# extension in Visual Studio Code (for more information regarding how to install the extension in your Visual Studio Code click here)
+Install NuGet Package Manager VS Code extension (click here)[Optional]
+Install Visual Studio IntelliCode VS Code extension (click here) [Optional]
+
+
+mkdir ClassroomApp.
+dotnet new webapi
+code . -this command will open Visual Studio Code instance:
+solution
+unit test
+models
+classlib
+controllers
+controllers base
