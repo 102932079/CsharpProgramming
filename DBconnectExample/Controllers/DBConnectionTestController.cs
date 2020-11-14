@@ -6,6 +6,10 @@
 using System;
 using Microsoft.AspNetCore.Mvc;//for db -re 
 using System.Data.SqlClient; //sqlconnection
+using System.Collections.Generic;//array
+using DBCONNECTEXAMPLE.models;//class
+
+//somehow the libary is so broken //sometime you can use reload windows to fix some issue
 
 //we need sql connection string and read block
 //sql connect and sql data reader
@@ -18,7 +22,11 @@ namespace DBCONNECTEXAMPLE.Controllers
     public class DBConnectionTestController
     {
         [HttpGet]
-        public string TestConnection(){
+        public List<Customer> TestConnection() { //return type need to be a list of customer//string List<Customer>
+            //create a list of customer
+            List<Customer> customers = new List<Customer>();//import array funciotn and class from models
+
+
             //not reconise connection dont have the libery try (dotnet restore)
             //ctrl + shift P console runner NuGet Package Manager: add package
             //need to download Nuget Package Manager in extension
@@ -45,12 +53,21 @@ namespace DBCONNECTEXAMPLE.Controllers
                 while (reader.Read())
                 {
                     //reader column and add to array
-                    result += reader[0] + "|" + reader[1] + "\n";//by add "\n" give the return data for each row to start a new line
+                    result += reader[0] + "|" + reader[1] + reader[2] + "\n";//by add "\n" give the return data for each row to start a new line
+                    //id | Lastname and surname 
+                    //create new custom
+
+                    //this line is important to turning the data into sth useful for the our webapi
+                    customers.Add(
+                        new Customer() { Id = reader[0], FirstName = reader[1].ToString(), surname = [2].ToString()}
+                        );
+
                 }
             }
             
             //return a method ok // if connect success return ok in postman
-            return "Ok";
+            //return "Ok";
+            return customers;
 
             //16 error CS0579: Duplicate (cant fix)
             //dotnet build (grab the url which is listening on port)
