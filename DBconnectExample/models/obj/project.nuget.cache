@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7/yo9ctOrT0sL7SlfSe3MuJBlBFf7U72KXgJbufQLfsVkm0vDZ4pbcT1PdPbNfwS4FGeQq9N1fUzKgm7B1w5YQ==",
+  "dgSpecHash": "5yMMxL0DGJ6i2siizumiPwzG7EJykIaM85ilGxHbdHvVdKdoCHBrz2R6Mk3L2sLHBkgaJpLf3Oa/Uqri+qfTdg==",
   "success": true,
-  "projectFilePath": "D:\\github\\CsharpProgramming\\DBconnectExample\\models\\models.csproj",
+  "projectFilePath": "d:\\github\\CsharpProgramming\\DBconnectExample\\models\\models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tengw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\tengw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

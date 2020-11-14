@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj": {}
+    "d:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj": {}
   },
   "projects": {
-    "D:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj": {
+    "d:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj",
+        "projectUniqueName": "d:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj",
         "projectName": "Controllers",
-        "projectPath": "D:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj",
+        "projectPath": "d:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\Controllers.csproj",
         "packagesPath": "C:\\Users\\tengw\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\obj\\",
+        "outputPath": "d:\\github\\CsharpProgramming\\DBconnectExample\\Controllers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tengw\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
             }
           },
           "imports": [

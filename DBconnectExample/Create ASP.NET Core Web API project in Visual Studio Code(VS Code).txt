@@ -17,3 +17,9 @@ models
 classlib
 controllers
 controllers base
+
+dotnet restore (for restore libery)
+
+//ctrl + shift P console runner
+//ctrl + shift P console runner NuGet Package Manager: add package
+//need to download Nuget Package Manager in extension

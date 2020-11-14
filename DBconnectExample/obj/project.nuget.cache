@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GXdtNv8nCszoSF0bXvwQIf0cpyoBG6S2bBqncrShTu8h7B8tHyKDV21okq449K/8ECKqnxZOpbzHCDw5O84JCQ==",
+  "dgSpecHash": "GnIi8x2L0arq7xJp3xiErbXYUnRz6s5YnjOhojj/FyVdh9MIJ0ny/x+yp6D7z81vXXf2bFnU+UfKtmapoBxb6g==",
   "success": true,
-  "projectFilePath": "D:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj",
+  "projectFilePath": "d:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

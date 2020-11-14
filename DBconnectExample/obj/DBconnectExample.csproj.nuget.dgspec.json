@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj": {}
+    "d:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj": {}
   },
   "projects": {
-    "D:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj": {
+    "d:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj",
+        "projectUniqueName": "d:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj",
         "projectName": "DBconnectExample",
-        "projectPath": "D:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj",
+        "projectPath": "d:\\github\\CsharpProgramming\\DBconnectExample\\DBconnectExample.csproj",
         "packagesPath": "C:\\Users\\tengw\\.nuget\\packages\\",
-        "outputPath": "D:\\github\\CsharpProgramming\\DBconnectExample\\obj\\",
+        "outputPath": "d:\\github\\CsharpProgramming\\DBconnectExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tengw\\AppData\\Roaming\\NuGet\\NuGet.Config"
