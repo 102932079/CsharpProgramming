@@ -72,6 +72,12 @@ namespace DBCONNECTEXAMPLE.Controllers
             //16 error CS0579: Duplicate (cant fix)
             //dotnet build (grab the url which is listening on port)
             //https://localhost:5001/DBConnectionTest return ok 
+
+            //SqlCommand class
+            //https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand?view=dotnet-plat-ext-5.0
+            //CURD in sql list
+            //insert is create, select is read, delete is delet,  update is insert again
+            //comand.excuteNonquery(); // write data
             
         }
     }
