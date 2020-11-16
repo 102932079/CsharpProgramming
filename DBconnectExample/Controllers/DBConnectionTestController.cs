@@ -106,8 +106,7 @@ namespace DBCONNECTEXAMPLE.Controllers
 
                     //this line is important to turning the data into sth useful for the our webapi
                     customers.Add(
-                        new Customer() { Id = reader[0], FirstName = reader[1].ToString(), surname = [2].ToString()}
-                        );
+                        new Customer() { Id = reader[0], FirstName = reader[1].ToString(), surname = reader[2].ToString()});
 
                 }
             }
@@ -160,17 +159,17 @@ namespace DBCONNECTEXAMPLE.Controllers
         //comand.excuteNonquery(); // write data
 
         //`create another endpoint for write data in database
-        [HttpGet("Delete91")]
-
-        public string Delete91(){
+        [HttpGet("Delete91/{Id}")]
+        public string Delete91(string Id){
             //`connect DB
             //string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
             SqlConnection conn = new SqlConnection(connectionString);
 
-            string queryString = "Delete From Customer Where Id=91";
+            string queryString = "Delete From Customer Where Id = @ID";
 
             //`create a sql command - loading the query into the command
             SqlCommand command = new SqlCommand(queryString, conn);
+            command.Parameters.AddWithValue("@ID", int.Parse(Id));
 
             //`accese the connection
             conn.Open();
@@ -180,13 +179,44 @@ namespace DBCONNECTEXAMPLE.Controllers
                 return result.ToString();
             } catch (SqlException se) {
                 return "Cannot delete user with id 91" + se.Message;
-            }
-            
-
-            
-
+            }   
             //return error use try catch
 
+        }
+
+        [HttpGet("{searchString}")]
+        public List<Customer> FindSurname(String searchString) {
+
+            List<Customer> customers = new List<Customer>();
+
+            SqlConnection conn = new SqlConnection(this.connectionStyring);
+
+            //*convert this into a parametirised string
+            //+string queryString = "Select * From Customer WHERE LastName LIKE \'%" + searchString + "%\'"; 
+            string queryString = "Select * From Customer WHERE LastName LIKE @LastName";//% wild card
+
+
+            //`  \' backslash do in string escape character it kills the character's functionality
+            //sql injection attack
+            //!c# parametirised query
+
+            SqlCommand command = new SqlCommand ( queryString, conn);
+            //do that as command
+            //command.Parameters.Add("@LastName", System.Data.SqlDbType.NVarChar;//NVarChar limitation
+            //command.Parameters["@LastName"].Value = $"\'%{searchString}%\'";
+            //safe to provant attacks
+            command.Parameters.AddWithValue("@LastName", searchString);
+
+            conn.Open();            
+
+            string result = "";
+            using(SqlDataReader reader = command.ExecuteReader())
+            {
+                while (reader.Read())
+                {
+
+                }
+            }
         }
     }
 }
