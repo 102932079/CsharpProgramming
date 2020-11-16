@@ -1,4 +1,4 @@
-﻿//find compelete guide from microsoft document
+﻿//find complete guide from microsoft document
 //https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlconnection?view=dotnet-plat-ext-5.0
 //or
 //https://www.guru99.com/c-sharp-access-database.html
@@ -10,8 +10,8 @@ using System.Collections.Generic;//array
 using DBCONNECTEXAMPLE.models;//class
 using Microsoft.Extensions.Configuration;
 
-//somehow the libary is so broken //sometime you can use reload windows to fix some issue
-
+//somehow the library is so broken //sometime you can use reload windows to fix some issue
+//!ctrl + shift + F find words in term 
 //we need sql connection string and read block
 //sql connect and sql data reader
 
@@ -25,15 +25,15 @@ namespace DBCONNECTEXAMPLE.Controllers
         //*make a class variable instend of URL, this is the access variable for only this class DBConnectionTestController
         //*for advance define it in the appsetting json
         //!under api repo properties got launchsettings.json can define the local host port in there 
-        //!put the access variable which contain sesitive info in codences in appsettings or put in enviorment variable and hide it
+        //!put the access variable which contain sensitive info in codences in appsettings or put in environment variable and hide it
         //*the code base is same not the connection string are different
-        //json file dont need to save it keep the change itself
-        //tell the system where to find the accesss connnection string
+        //json file don't need to save it keep the change itself
+        //tell the system where to find the access connection string
         //+String connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
-        //instend use this //using Microsoft.Extensions.Configuration;private not inilized
+        //instend use this //using Microsoft.Extensions.Configuration;private, not inits
         IConfiguration configuration;
-        //this got different way to inisilise configuration builder in start cs
-        string connectionstring = "";//intise
+        //this got different way to inits configuration builder in start cs
+        string connectionstring = "";//inits
 
         //ctor
         public DBConnectionTestController(IConfiguration iConfig){
@@ -44,12 +44,12 @@ namespace DBCONNECTEXAMPLE.Controllers
         [HttpGet]
         public List<Customer> TestConnection() { //return type need to be a list of customer//string List<Customer>
             //*create a list of customer
-            List<Customer> customers = new List<Customer>();//import array funciotn and class from models
+            List<Customer> customers = new List<Customer>();//import array function and class from models
 
-            //!quick recap go on to nuget and grib that libery (dotnet restore) for sql client then work out connection string
+            //!quick recap go on to NuGet and grab that library (dotnet restore) for sql client then work out connection string
             //!the connect string have host and what database name address then the login detain username and password
 
-            //not reconise connection dont have the libery try (dotnet restore)
+            //not recognize connection don't have the library try (dotnet restore)
             //ctrl + shift P console runner NuGet Package Manager: add package
             //need to download Nuget Package Manager in extension
             //system.data.sqlclient
@@ -58,7 +58,7 @@ namespace DBCONNECTEXAMPLE.Controllers
             //the sample DB from dofactory.com/sql/sample-database
             //connect to DB not provider
             //`Connect to an SQL Server Database
-            //*not a good place to put connectionstring need refine it to other place,visibility(infomation secure)when URL change need manully change it
+            //*not a good place to put connectionstring need refine it to other place,visibility(infomation secure)when URL change need manually change it
             //*use variable for it see above for each end point
             //String connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
             
@@ -69,7 +69,7 @@ namespace DBCONNECTEXAMPLE.Controllers
             SqlConnection conn = new SqlConnection(connectionString);
             //SqlConnection cnn;
             string queryString = "Select * From Customer";
-            //`use sqlcommand to openup a connection
+            //`use sqlcommand to open up a connection
             SqlCommand command = new SqlCommand ( queryString, conn);
             conn.Open();
             string result = "";
@@ -137,7 +137,7 @@ namespace DBCONNECTEXAMPLE.Controllers
         //`SqlCommand class
         //https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand?view=dotnet-plat-ext-5.0
         //CURD in sql list
-        //insert is create, select is read, delete is delet,  update is insert again
+        //insert is create, select is read, delete is delete,  update is insert again
         //comand.excuteNonquery(); // write data
 
         //`create another endpoint for write data in database
