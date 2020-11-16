@@ -31,6 +31,8 @@ namespace DBCONNECTEXAMPLE.Controllers
         //tell the system where to find the access connection string
         //+String connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
         //instend use this //using Microsoft.Extensions.Configuration;private, not inits
+
+        SqlConnectionStringBuilder stringBuilder = new SqlConnectionStringBuilder();
         IConfiguration configuration;
         //this got different way to inits configuration builder in start cs
         string connectionstring = "";//inits
@@ -39,6 +41,19 @@ namespace DBCONNECTEXAMPLE.Controllers
         public DBConnectionTestController(IConfiguration iConfig){
             //auto pass data
             this.configuration = iConfig;
+            //*use configuration to retrieve connection string from appsetting.json
+            this.connectionstring = this.configuration.GetSection("ConnectionString").Value;
+            //*get section like a object
+
+            // !use the SqlConnectionStringBuilder to create our connection string() add element one by one
+            //data type need convert to string so value
+            stringBuilder.DataSource = this.configuration.GetSection("DBConnectionString").GetSection("Url").Value;
+            stringBuilder.InitialCatalog = this.configuration.GetSection("DBConnectionString").GetSection("Database").Value;
+            stringBuilder.UserID = this.configuration.GetSection("DBConnectionString").GetSection("User").Value;
+            stringBuilder.Password = this.configuration.GetSection("DBConnectionString").GetSection("Password").Value;
+
+            this.connectionstring = stringBuilder.ConnectionString;
+            //little things changed in connection string will the cruash the system
         }
         
         [HttpGet]
@@ -66,7 +81,11 @@ namespace DBCONNECTEXAMPLE.Controllers
 
             //the url will be shutted down soon
             //above was connection string
-            SqlConnection conn = new SqlConnection(connectionString);
+            //*if i do need to change the connection string i just need to go to appsetting and change it at once
+            //`for RPS project do seprate for user and selection
+            //one step further for the selector
+            //break the long part into 3 separate section (source, catalog, userID,Password) change individually instead whole
+            SqlConnection conn = new SqlConnection(this.connectionString);
             //SqlConnection cnn;
             string queryString = "Select * From Customer";
             //`use sqlcommand to open up a connection
