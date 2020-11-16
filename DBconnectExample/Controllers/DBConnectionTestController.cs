@@ -23,9 +23,11 @@ namespace DBCONNECTEXAMPLE.Controllers
     {
         [HttpGet]
         public List<Customer> TestConnection() { //return type need to be a list of customer//string List<Customer>
-            //create a list of customer
+            //*create a list of customer
             List<Customer> customers = new List<Customer>();//import array funciotn and class from models
 
+            //quick recap go on to nuget and grib that libery (dotnet restore) for sql client then work out connection string
+            //!the connect string have host and what database name address then the login detain username and password
 
             //not reconise connection dont have the libery try (dotnet restore)
             //ctrl + shift P console runner NuGet Package Manager: add package
@@ -35,19 +37,23 @@ namespace DBCONNECTEXAMPLE.Controllers
             //bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com
             //the sample DB from dofactory.com/sql/sample-database
             //connect to DB not provider
+            //*Connect to an SQL Server Database
             String connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+            
+            //!quick recap crate connection to that database create query and send command
+
+            //the url will be shutted down soon
             //above was connection string
             SqlConnection conn = new SqlConnection(connectionString);
             //SqlConnection cnn;
-
             string queryString = "Select * From Customer";
-
-            //use sqlcommand to openup a connection
+            //*use sqlcommand to openup a connection
             SqlCommand command = new SqlCommand ( queryString, conn);
             conn.Open();
-
             string result = "";
-            //data reader
+
+            //!recap using reader
+            //*data reader
             using (SqlDataReader reader = command.ExecuteReader())
             {
                 while (reader.Read())
@@ -74,20 +80,20 @@ namespace DBCONNECTEXAMPLE.Controllers
             //https://localhost:5001/DBConnectionTest return ok 
 
 
-                        // // List<Customer> customers = new List<Customer>();
+            //// List<Customer> customers = new List<Customer>();
 
-            //             // Connect to an SQL Server Database
-            //             string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
-            //             SqlConnection conn = new SqlConnection(connectionString);
+            //// Connect to an SQL Server Database
+            //string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+            //SqlConnection conn = new SqlConnection(connectionString);
 
-            //             string queryString = "Select * From Customer";
+            //string queryString = "Select * From Customer";
 
-            //             SqlCommand command = new SqlCommand( queryString, conn);
-            //             conn.Open();
+            //SqlCommand command = new SqlCommand( queryString, conn);
+            //conn.Open();
                     
-            //             string result = "";
-            //             using(SqlDataReader reader = command.ExecuteReader())
-            //             {
+            //string result = "";
+            //using(SqlDataReader reader = command.ExecuteReader())
+            //{
             //                 while (reader.Read())
             //                 {
             //                     result += reader[0] + " | " + reader[1] + reader[2] + "\n";
