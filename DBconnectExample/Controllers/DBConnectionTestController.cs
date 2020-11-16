@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Mvc;//for db -re
 using System.Data.SqlClient; //sqlconnection
 using System.Collections.Generic;//array
 using DBCONNECTEXAMPLE.models;//class
+using Microsoft.Extensions.Configuration;
 
 //somehow the libary is so broken //sometime you can use reload windows to fix some issue
 
@@ -21,12 +22,31 @@ namespace DBCONNECTEXAMPLE.Controllers
     [Route("[controller]")]
     public class DBConnectionTestController
     {
+        //*make a class variable instend of URL, this is the access variable for only this class DBConnectionTestController
+        //*for advance define it in the appsetting json
+        //!under api repo properties got launchsettings.json can define the local host port in there 
+        //!put the access variable which contain sesitive info in codences in appsettings or put in enviorment variable and hide it
+        //*the code base is same not the connection string are different
+        //json file dont need to save it keep the change itself
+        //tell the system where to find the accesss connnection string
+        //+String connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+        //instend use this //using Microsoft.Extensions.Configuration;private not inilized
+        IConfiguration configuration;
+        //this got different way to inisilise configuration builder in start cs
+        string connectionstring = "";//intise
+
+        //ctor
+        public DBConnectionTestController(IConfiguration iConfig){
+            //auto pass data
+            this.configuration = iConfig;
+        }
+        
         [HttpGet]
         public List<Customer> TestConnection() { //return type need to be a list of customer//string List<Customer>
             //*create a list of customer
             List<Customer> customers = new List<Customer>();//import array funciotn and class from models
 
-            //quick recap go on to nuget and grib that libery (dotnet restore) for sql client then work out connection string
+            //!quick recap go on to nuget and grib that libery (dotnet restore) for sql client then work out connection string
             //!the connect string have host and what database name address then the login detain username and password
 
             //not reconise connection dont have the libery try (dotnet restore)
@@ -37,8 +57,10 @@ namespace DBCONNECTEXAMPLE.Controllers
             //bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com
             //the sample DB from dofactory.com/sql/sample-database
             //connect to DB not provider
-            //*Connect to an SQL Server Database
-            String connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+            //`Connect to an SQL Server Database
+            //*not a good place to put connectionstring need refine it to other place,visibility(infomation secure)when URL change need manully change it
+            //*use variable for it see above for each end point
+            //String connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
             
             //!quick recap crate connection to that database create query and send command
 
@@ -47,13 +69,13 @@ namespace DBCONNECTEXAMPLE.Controllers
             SqlConnection conn = new SqlConnection(connectionString);
             //SqlConnection cnn;
             string queryString = "Select * From Customer";
-            //*use sqlcommand to openup a connection
+            //`use sqlcommand to openup a connection
             SqlCommand command = new SqlCommand ( queryString, conn);
             conn.Open();
             string result = "";
 
             //!recap using reader
-            //*data reader
+            //`data reader
             using (SqlDataReader reader = command.ExecuteReader())
             {
                 while (reader.Read())
@@ -112,26 +134,26 @@ namespace DBCONNECTEXAMPLE.Controllers
         }
 
         
-        //SqlCommand class
+        //`SqlCommand class
         //https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlcommand?view=dotnet-plat-ext-5.0
         //CURD in sql list
         //insert is create, select is read, delete is delet,  update is insert again
         //comand.excuteNonquery(); // write data
 
-        //create another endpoint for write data in database
+        //`create another endpoint for write data in database
         [HttpGet("Delete91")]
 
         public string Delete91(){
-            //connect DB
-            string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
+            //`connect DB
+            //string connectionString = @"Data Source=bikestoresdb.c3raologixkl.us-east-1.rds.amazonaws.com;Initial Catalog=SampleDB;User ID=admin;Password=abcd1234";
             SqlConnection conn = new SqlConnection(connectionString);
 
             string queryString = "Delete From Customer Where Id=91";
 
-            //create a sql command - loading the query into the command
+            //`create a sql command - loading the query into the command
             SqlCommand command = new SqlCommand(queryString, conn);
 
-            //accese the connection
+            //`accese the connection
             conn.Open();
 
             try {

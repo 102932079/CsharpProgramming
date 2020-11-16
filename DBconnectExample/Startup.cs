@@ -23,6 +23,8 @@ namespace DBconnectExample
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
+
+        //it will add in to the controllers when create sth
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
