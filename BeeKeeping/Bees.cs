@@ -6,15 +6,18 @@ namespace BeeKeeping
     public class Bee
     {
         // attributes
-        public string BeeName;
-        public float BeeSize;
+        public string BeeName = "Bee";
+        public float BeeSize = 0.0F;
+
+
 
         // default constructor
 
         public Bee()
-        {
-            this.BeeName = "Bee";
-            this.BeeSize = 0.0F;
+        {   
+            // !no need
+            //this.BeeName = "Bee";
+            //BeeSize = 0.0F;
         }
 
         // variable constructor

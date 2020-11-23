@@ -37,7 +37,7 @@ namespace BeeKeeping
     {
         static void Main(string[] args)
         {
-            //instatiate the bees   
+            //instantiate the bees   
             Bee b1 = new Bee ("John" , 3.2F);
             Bee b2 = new Bee ("Paul" , 2.7F);
             Bee b3 = new Bee ("Ringo" , 1.1F);
@@ -46,7 +46,7 @@ namespace BeeKeeping
             Bee b6 = new Bee ("Dave" , 7.4F);
             Bee b7 = new Bee ("Krist" , 1.5F);
 
-            //instatiate the beehive
+            //instantiate the beehive
             Beehive h1 = new Beehive(4,1);
             Beehive h2 = new Beehive(3,2);
 
